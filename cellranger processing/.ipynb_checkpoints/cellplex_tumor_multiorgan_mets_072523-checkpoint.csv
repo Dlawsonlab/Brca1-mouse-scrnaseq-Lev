@@ -1,0 +1,16 @@
+[gene-expression]
+reference,/share/crsp/lab/dalawson/share/Reference_Genomes/mm10_multiome/refdata-cellranger-arc-mm10-2020-A-2.0.0
+
+[libraries]
+fastq_id,fastqs,feature_types
+Met_Tatyana_GEX,/share/crsp/lab/dalawson/share/1_Lab_sequencing/1_Tatyana/Fastq/tumor_and_multiorgan_mets_072523,Gene Expression
+Met_Tatyana_CellPlex,/share/crsp/lab/dalawson/share/1_Lab_sequencing/1_Tatyana/Fastq/tumor_and_multiorgan_mets_072523,Multiplexing Capture
+
+[samples]
+sample_id,cmo_ids,description
+brain_1,CMO301
+lung_4,CMO302|CMO303
+liver_4,CMO304|CMO305
+ctrl_tum_ColD,CMO306|CMO307
+spont_tum_enriched,CMO308
+spontaneous_tumor_111121,CMO309|CMO310|CMO311|CMO312

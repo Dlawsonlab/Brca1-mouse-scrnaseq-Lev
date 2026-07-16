@@ -1,0 +1,17 @@
+[gene-expression]
+reference,/share/crsp/lab/dalawson/share/Reference_Genomes/Multiome/mm10/refdata-cellranger-arc-mm10-2020-A-2.0.0
+
+[libraries]
+fastq_id,fastqs,feature_types
+Met_Tatyana_GEX,/share/crsp/lab/dalawson/tzhuravl/CellPlex_Metastasis/Fastq/lung_liver_ctrl_tumor_cellplex4,Gene Expression
+Met_Tatyana_CellPlex,/share/crsp/lab/dalawson/tzhuravl/CellPlex_Metastasis/Fastq/lung_liver_ctrl_tumor_cellplex4,Multiplexing Capture
+
+[samples]
+sample_id,cmo_ids,description
+Lung_1,CMO301
+Lung_2,CMO302
+Lung_3,CMO303
+Liver_1,CMO304
+Liver_2,CMO305
+Liver_3,CMO306
+Tumor_ctrl,CMO307|CMO308

@@ -1,0 +1,14 @@
+[gene-expression]
+reference,/share/crsp/lab/dalawson/share/Reference_Genomes/mm10_multiome/refdata-cellranger-arc-mm10-2020-A-2.0.0
+
+[libraries]
+fastq_id,fastqs,feature_types
+Tatyana_GEX,/share/crsp/lab/dalawson/share/1_Lab_sequencing/1_Tatyana/Fastq/sorted_epithelial_090823,Gene Expression
+Tatyana_CellPlex,/share/crsp/lab/dalawson/share/1_Lab_sequencing/1_Tatyana/Fastq/sorted_epithelial_090823,Multiplexing Capture
+
+[samples]
+sample_id,cmo_ids,description
+luminal_WT,CMO309
+basal_WT,CMO310
+basal_MUT,CMO311
+luminal_MUT,CMO312

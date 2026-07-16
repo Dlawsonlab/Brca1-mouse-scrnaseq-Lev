@@ -1,0 +1,20 @@
+[gene-expression]
+reference,/share/crsp/lab/dalawson/share/Reference_Genomes/Multiome/mm10/refdata-cellranger-arc-mm10-2020-A-2.0.0
+
+[libraries]
+fastq_id,fastqs,feature_types
+Tatyana_MFP_GEX,/share/crsp/lab/dalawson/tzhuravl/CellPlex_Tumors/Fastq/normal_plus_premalignant_042823,Gene Expression
+Tatyana_MFP_Cellplex,/share/crsp/lab/dalawson/tzhuravl/CellPlex_Tumors/Fastq/normal_plus_premalignant_042823,Multiplexing Capture
+
+[samples]
+sample_id,cmo_ids,description
+nMFP_1,CMO303
+nMFP_2,CMO304
+nMFP_3,CMO305
+nMFP_4,CMO306
+nMFP_5,CMO307
+pMFP_1,CMO308
+pMFP_2,CMO309
+pMFP_3,CMO310
+pMFP_4,CMO311
+pMFP_5,CMO312

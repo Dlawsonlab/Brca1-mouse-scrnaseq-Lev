@@ -1,0 +1,13 @@
+[gene-expression]
+reference,/share/crsp/lab/dalawson/share/Reference_Genomes/mm10_multiome/refdata-cellranger-arc-mm10-2020-A-2.0.0
+
+[libraries]
+fastq_id,fastqs,feature_types
+Tatyana_tumor_GEX,/share/crsp/lab/dalawson/share/1_Lab_sequencing/1_Tatyana/Fastq/large_and_smallest_tumors_082223,Gene Expression
+Tatyana_tumor_CellPlex,/share/crsp/lab/dalawson/share/1_Lab_sequencing/1_Tatyana/Fastq/large_and_smallest_tumors_082223,Multiplexing Capture
+
+[samples]
+sample_id,cmo_ids,description
+possible_smallest_tumor,CMO301|CMO303
+tumor_081720,CMO304|CMO305|CMO306|CMO307
+tumor_120519,CMO308|CMO309|CMO310|CMO311

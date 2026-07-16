@@ -1,0 +1,23 @@
+[gene-expression]
+reference,/share/crsp/lab/dalawson/share/Reference_Genomes/mm10_multiome/refdata-cellranger-arc-mm10-2020-A-2.0.0
+
+[libraries]
+fastq_id,fastqs,feature_types
+Tatyana_tumor_12_20_2023_GEX_1,/share/crsp/lab/dalawson/share/1_Lab_sequencing/1_Tatyana/Fastq/supplement_blood_sorted_epithelial_very_small_tumor_121923/part_1,Gene Expression
+Tatyana_tumor_12_20_2023_GEX_2,/share/crsp/lab/dalawson/share/1_Lab_sequencing/1_Tatyana/Fastq/supplement_blood_sorted_epithelial_very_small_tumor_121923/part_2,Gene Expression
+Tatyana_tumor_12_20_2023_Cell_plex_1,/share/crsp/lab/dalawson/share/1_Lab_sequencing/1_Tatyana/Fastq/supplement_blood_sorted_epithelial_very_small_tumor_121923/part_1,Multiplexing Capture
+Tatyana_tumor_12_20_2023_Cell_plex_2,/share/crsp/lab/dalawson/share/1_Lab_sequencing/1_Tatyana/Fastq/supplement_blood_sorted_epithelial_very_small_tumor_121923/part_2,Multiplexing Capture
+
+[samples]
+sample_id,cmo_ids,description
+blood_WT_1,CMO301
+blood_MUT_1,CMO302
+blood_WT_2,CMO303
+blood_MUT_2,CMO304
+blood_WT_3,CMO305
+blood_MUT_3,CMO306
+very_small_tumor_966,CMO307|CMO308
+intermediate_MUT,CMO309
+else_epithelial_MUT,CMO310
+intermediate_WT,CMO311
+else_epithelial_WT,CMO312

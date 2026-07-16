@@ -1,0 +1,16 @@
+[gene-expression]
+reference,/share/crsp/lab/dalawson/share/Reference_Genomes/Multiome/mm10/refdata-cellranger-arc-mm10-2020-A-2.0.0,# Path of folder containing 10x-compatible reference. Required for gene expression and Feature Barcode libraries.
+
+[libraries]
+fastq_id,fastqs,feature_types
+MFP_plus_Tumor_020723_GEX,/share/crsp/lab/dalawson/tzhuravl/CellPlex_Tumors/Fastq/premalignant_plus_small_tumor,Gene Expression
+MFP_plus_Tumor_020723_cellplex,/share/crsp/lab/dalawson/tzhuravl/CellPlex_Tumors/Fastq/premalignant_plus_small_tumor,Multiplexing Capture
+
+[samples]
+sample_id,cmo_ids,description
+pMFP_1,CMO301
+pMFP_2,CMO302
+pMFP_3,CMO303
+pMFP_4,CMO304
+pMFP_5,CMO305
+tum633,CMO306|CMO307|CMO308|CMO309

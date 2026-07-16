@@ -1,0 +1,16 @@
+[gene-expression]
+reference,/share/crsp/lab/dalawson/share/Reference_Genomes/Multiome/mm10/refdata-cellranger-arc-mm10-2020-A-2.0.0
+
+[libraries]
+fastq_id,fastqs,feature_types
+MFP_plus_Tumor_012623_GEX,/share/crsp/lab/dalawson/tzhuravl/CellPlex_Tumors/Fastq/normal_plus_medium_tumor,Gene Expression
+MFP_plus_Tumor_012623_cellplex,/share/crsp/lab/dalawson/tzhuravl/CellPlex_Tumors/Fastq/normal_plus_medium_tumor,Multiplexing Capture
+
+[samples]
+sample_id,cmo_ids
+nMFP_1,CMO301
+nMFP_2,CMO302
+nMFP_3,CMO303
+nMFP_4,CMO304
+nMFP_5,CMO305
+tum599,CMO306|CMO307|CMO308|CMO309|CMO310
